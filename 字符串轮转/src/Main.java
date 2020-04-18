@@ -1,7 +1,7 @@
 /**
  * Author: wangJianBo
  * Date: 2020/4/18 19:02
- * Content:
+ * Content: 字符串
  */
 class Solution {
     public boolean isFlipedString(String s1, String s2) {
